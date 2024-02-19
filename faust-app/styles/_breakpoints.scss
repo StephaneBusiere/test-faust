@@ -5,3 +5,10 @@
 $breakpoint-extra-small: 640px;
 $breakpoint-small: 768px;
 $breakpoint-medium: 1024px;
+$media-nav: 800px; //when navigations should go mobile. Should prob match --nav-move found in variables.scss
+$media-sidebar: 1000px; //when .secondary would go mobile if you are using it.
+$media-small: 576px;
+$media-medium: 768px;
+$media-large: 1030px;
+$media-container: 1600px; //should match the container css variable
+$media-tablett: 1200px;
